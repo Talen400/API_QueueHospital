@@ -1,5 +1,3 @@
-# FastAPI Project with .env Configuration
-
 ## Overview
 This project is a FastAPI application designed to manage a hospital queue system. It uses environment variables from a `.env` file for configuration, allowing flexibility and security when running the application.
 
